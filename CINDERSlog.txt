@@ -1,0 +1,16 @@
+02/17/2022(Thu) 01:48:56 PM Central Standard Time..................Tank 1 ON!!!
+02/17/2022(Thu) 01:48:57 PM Central Standard Time..................Tank 2 ON!!!
+02/17/2022(Thu) 01:48:58 PM Central Standard Time..................Tank 3 ON!!!
+02/17/2022(Thu) 01:48:59 PM Central Standard Time..................Tank 4 ON!!!
+02/17/2022(Thu) 01:49:01 PM Central Standard Time.................Tank 1 OFF!!!
+02/17/2022(Thu) 01:49:01 PM Central Standard Time.................Tank 2 OFF!!!
+02/17/2022(Thu) 01:49:01 PM Central Standard Time.................Tank 3 OFF!!!
+02/17/2022(Thu) 01:49:01 PM Central Standard Time.................Tank 4 OFF!!!
+02/17/2022(Thu) 02:00:43 PM Central Standard Time..................Tank 1 ON!!!
+02/17/2022(Thu) 02:00:44 PM Central Standard Time..................Tank 2 ON!!!
+02/17/2022(Thu) 02:00:45 PM Central Standard Time..................Tank 3 ON!!!
+02/17/2022(Thu) 02:00:46 PM Central Standard Time..................Tank 4 ON!!!
+02/17/2022(Thu) 02:00:52 PM Central Standard Time.................Tank 1 OFF!!!
+02/17/2022(Thu) 02:00:52 PM Central Standard Time.................Tank 2 OFF!!!
+02/17/2022(Thu) 02:00:52 PM Central Standard Time.................Tank 3 OFF!!!
+02/17/2022(Thu) 02:00:52 PM Central Standard Time.................Tank 4 OFF!!!
