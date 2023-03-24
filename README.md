@@ -3,4 +3,4 @@
  
  Hello, this is CINDERS. I developed CINDERS to support a testing environment where we needed to put out fires remotely.
  
- [Screengrab](/screengrab.png)
+ [Screengrab](/screengrab.PNG)
